@@ -23,4 +23,4 @@ Learning Path **Mechine Learning Developer** ini didapatkan dari program beasisw
 |  1   |  Belajar Dasar Visualisasi Data         | Apr 16, 2021 | [→](https://www.dicoding.com/certificates/07Z6LDD9MPQR) |
 |  2   |  Memulai Pemrograman Dengan Python      | May 3, 2021 | [→](https://www.dicoding.com/certificates/81P21JK1JZOY) |
 |  3   |  Belajar Machine Learning untuk Pemula  | May 9, 2021 | [→](https://www.dicoding.com/certificates/GRX5G1N8VX0M) |
-|  4   |  Belajar Pengembangan Machine Learning  | 05-10-2020 | [→](https://www.dicoding.com/certificates/72ZD223YQZYW) |
+|  4   |  Belajar Pengembangan Machine Learning  | Jun 27, 2021 | [→](https://www.dicoding.com/certificates/JLX13502GP72) |
